@@ -28,7 +28,7 @@
 ## How to configure the bot ...
 
 
-In a text lounge enter the following command ``$setup``
+In a text lounge enter the following command ``?setup``
 
 ## Authors
 
