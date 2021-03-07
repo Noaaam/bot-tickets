@@ -25,8 +25,12 @@
 ``sequelize``
 ``mysql2``
 
+## How to configure the bot ...
 
-## Auteurs
+
+In a text lounge enter the following command ``$setup``
+
+## Authors
 
 * **✨ | Noam.** _alias_ [@Noaaam](https://github.com/Noaaam)
 
