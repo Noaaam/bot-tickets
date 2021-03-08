@@ -36,8 +36,7 @@ client.on('message', async (message) => {
           if (fetchMsg && categoryChannel) {
               for (const roleId of roles)
                   if (!message.guild.roles.cache.get(roleId)) throw new Error('❌ | Ce role n\'existe pas !');
-
-              console.log('Yo');    
+ 
               const ticketConfig = await TicketConfig.create({
                   messageId: msgId,
                   guildId: message.guild.id,
