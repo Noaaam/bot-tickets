@@ -1,6 +1,6 @@
-![](https://i66.servimg.com/u/f66/20/08/95/81/68747412.png)
+![](https://i.servimg.com/u/f66/20/08/95/81/sans_t11.png)
 
-## `A code in v12 that allows you to open / close tickets with reactions.`
+## `A code in any versions for start to make you're own personal Discord bot.`
 
 
 
@@ -21,14 +21,11 @@
 ## The modules necessary for the proper functioning of the script.
 
 ``discord.js``
-``dotenv``
-``sequelize``
-``mysql2``
 
 ## How to configure the bot ...
 
 
-In a text lounge enter the following command ``?setup``
+For start you must take you're token bot and put this in the file named ``config.json``
 
 ## Authors
 
@@ -36,7 +33,8 @@ In a text lounge enter the following command ``?setup``
 
 ## About the project
 
-Updates will be done very frequently so do not hesitate to put a star to stay informed...
+Updates will be done very frequently so do not hesitate to put a star to stay informed...                                                                           
+This project has been created for the new person intersted for code.
 
 Made with ❤️ by Noam.
 
